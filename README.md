@@ -8,7 +8,6 @@
 
 ## OBS.:
 
-6) Para as listas de antiguidade disponibilizadas em 24/11/2021, a extração dos dados dos PDF foi feita com o emprego da biblioteca PyMuPDF.
-
-
-
+6) Para as listas de antiguidade disponibilizadas em 24/11/2021, a extração dos dados dos PDF foi feita com o emprego da biblioteca PyMuPDF. 
+7) Essa nova abordagem permitiu a análise das 5 listas (Procuradores, Final, Intermediária, Inicial e Substitutos) sem a necessidade de editar manualmente os dados obtidos das últimas páginas do PDF. 
+8) O resultado pode ser conferido no notebook "antiguidade_2022.ipynb".
