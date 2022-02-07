@@ -5,3 +5,10 @@
 3) O "Tabula Py" criou tabelas individuais de cada página do PDF, que foram, em seguida, concatenadas para a geração de dataframe único.
 4) O resultado da extração da página 4 (última do PDF) não observou o padrão das demais páginas.
 5) O script grava, ao final, uma planilha Excel com os dados extraídos e tratados.
+
+## OBS.:
+
+6) Para as listas de antiguidade disponibilizadas em 24/11/2021, a extração dos dados dos PDF foi feita com o emprego da biblioteca PyMuPDF.
+
+
+
