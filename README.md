@@ -11,3 +11,8 @@
 6) Para as listas de antiguidade disponibilizadas em 24/11/2021, a extração dos dados dos PDF foi feita com o emprego da biblioteca PyMuPDF. 
 7) Essa nova abordagem permitiu a análise conjunta das 5 listas (Procuradores, Final, Intermediária, Inicial e Substitutos) sem a necessidade de editar manualmente os dados obtidos das últimas páginas dos documentos. 
 8) O resultado pode ser conferido no notebook "antiguidade_2022.ipynb".
+
+## Atualização de 19/10/2025
+
+9) Usamos o camolot-py para a extração das tabelas e o método df da mesma biblioteca para a geração dos dataframes.
+10) Usamos LLM ('gpt-4o-mini') para identificar os gêneros dos membros nominados.
